@@ -1,0 +1,11 @@
+Package: cinnamon-plasma-theme
+Version: 1.0.0-1big1
+Depends:
+Architecture: all
+Maintainer: Bruno Goncalves <biglinux.com.br>
+Section: admin
+Priority: optional
+Installed-Size:2344
+Description: Plasma theme fr Cinnamon desktop
+
+
