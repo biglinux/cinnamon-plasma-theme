@@ -891,8 +891,8 @@ left: -20px;
     padding: 8px 8px 8px 8px;
     spacing-rows: 10px;
     spacing-columns: 10px;
-    margin-from-right-edge-of-screen: 20px;
-    width: 34em;
+    margin-from-right-edge-of-screen: 25px;
+    width: 600px;
 
 }
 
@@ -911,11 +911,11 @@ left: -20px;
 }
 
 #notification-scrollview {
-    max-height: 100em;
+    max-height: 150em;
 }
 
 #notification-scrollview > .top-shadow, #notification-scrollview > .bottom-shadow {
-    height: 10em;
+    height: 20em;
 }
 
 #notification-scrollview:ltr > StScrollBar {
